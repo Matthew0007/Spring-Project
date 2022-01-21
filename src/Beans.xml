@@ -10,9 +10,9 @@ and open the template in the editor.
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id="helloworld" class="com.Matthew.HelloWorld">
+<!--     <bean id="helloworld" class="com.Matthew.HelloWorld">
         
-    </bean>
+    </bean> -->
 
 </beans>
 
